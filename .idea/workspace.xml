@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="539b1ad7-ee50-4c09-ad0c-188b592a9ebf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1yV0EWRRErG76ykL73m5T5hYGgq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="539b1ad7-ee50-4c09-ad0c-188b592a9ebf" name="Default Changelist" comment="" />
+      <created>1632321338332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632321338332</updated>
+      <workItem from="1632321339520" duration="2286000" />
+      <workItem from="1632323647959" duration="27000" />
+      <workItem from="1632323679773" duration="28000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add thymeleaf templates">
+      <created>1632323545705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632323545705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add thymeleaf templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add thymeleaf templates" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="0" key="CommitChangelistDialog2" timestamp="1632323545180">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1632323545180" />
+    <state width="1557" height="172" key="GridCell.Tab.0.bottom" timestamp="1632323642848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="172" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1632323642848" />
+    <state width="1557" height="172" key="GridCell.Tab.0.center" timestamp="1632323642848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="172" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1632323642848" />
+    <state width="1557" height="172" key="GridCell.Tab.0.left" timestamp="1632323642848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="172" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1632323642848" />
+    <state width="1557" height="172" key="GridCell.Tab.0.right" timestamp="1632323642848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="172" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1632323642848" />
+    <state width="1557" height="172" key="GridCell.Tab.1.bottom" timestamp="1632323642848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="172" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1632323642848" />
+    <state width="1557" height="172" key="GridCell.Tab.1.center" timestamp="1632323642848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="172" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1632323642848" />
+    <state width="1557" height="172" key="GridCell.Tab.1.left" timestamp="1632323642848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="172" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1632323642848" />
+    <state width="1557" height="172" key="GridCell.Tab.1.right" timestamp="1632323642848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="172" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1632323642848" />
+    <state x="380" y="164" key="IDE.errors.dialog" timestamp="1632323687987">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="164" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1632323687987" />
+    <state x="301" y="74" key="SettingsEditor" timestamp="1632323662339">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1632323662339" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1632323547561">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1632323547561" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1632323020766">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1632323020766" />
+  </component>
+</project>
